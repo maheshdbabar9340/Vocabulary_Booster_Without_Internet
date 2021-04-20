@@ -3,6 +3,7 @@ from difflib import get_close_matches
 
 data = json.load(open("E:/Study/Python/Udemy/Dictonary/data.json"))
 
+
 def translate(word):
     word = word.lower()
     if word in data:
