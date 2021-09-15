@@ -1,6 +1,6 @@
 # Python_Dictonary
 
-We can use this for boosting your vocabulary when you don't have mobile data or hotsopt in your home.
+We can use this for boosting your vocabulary when you don't have mobile data or wifi-connection in your home.
 
 You can take help from my Vocabulary Boosting for finding any word from any subject of any stream...So what are you waiting for ..Let's try it...
 
